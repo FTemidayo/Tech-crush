@@ -12,17 +12,13 @@ console.log(myName)
 let age = 23
 console.log(age.toString().toUpperCase())
 
-/*
+
 //try AND catch
 try{
 
 } catch(error){
     console.log(error)
-}
-*/
-
-/*
-try {
+} try {
     let result = 10 / 0;
     console.log(result);
     undefinedFunction();
@@ -46,6 +42,4 @@ function loadUserData(userId) {
         })
     }   
 }
-*/
-
-
+    */
