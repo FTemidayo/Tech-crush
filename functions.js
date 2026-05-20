@@ -16,3 +16,5 @@ function sum(a, b) {
 
 const value = sum(3, 5)
 console.log(value)
+
+//A random comment
